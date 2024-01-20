@@ -18,7 +18,7 @@ cd backstage
 yarn dev
 ```
 Check out the backstage app at http://localhost:3000
-Frontend uses port 3000 and backend uses port 7000
+Frontend uses port 3000 and backend uses port 7007
 
 2. add plugin in frontend and backend
 https://backstage.io/docs/features/kubernetes/installation/
